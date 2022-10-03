@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotaWeb", "LigaFut\DotaWeb.csproj", "{F7098CDD-4E01-4EAD-9191-ADF2D6A3EF8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{ECD96E7D-6587-4E2D-84E8-ACB3E2EF677D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{E5D47E2B-3A8C-4236-8BA4-8513C82EB602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7098CDD-4E01-4EAD-9191-ADF2D6A3EF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7098CDD-4E01-4EAD-9191-ADF2D6A3EF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7098CDD-4E01-4EAD-9191-ADF2D6A3EF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7098CDD-4E01-4EAD-9191-ADF2D6A3EF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD96E7D-6587-4E2D-84E8-ACB3E2EF677D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD96E7D-6587-4E2D-84E8-ACB3E2EF677D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD96E7D-6587-4E2D-84E8-ACB3E2EF677D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD96E7D-6587-4E2D-84E8-ACB3E2EF677D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D47E2B-3A8C-4236-8BA4-8513C82EB602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D47E2B-3A8C-4236-8BA4-8513C82EB602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D47E2B-3A8C-4236-8BA4-8513C82EB602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D47E2B-3A8C-4236-8BA4-8513C82EB602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C778CD4-9DA5-4A46-A01F-CF28DB0CBA52}
+	EndGlobalSection
+EndGlobal
